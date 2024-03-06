@@ -1,9 +1,9 @@
 # Input data
-nama = input("Nama: myvintech")
-umur = input("Umur: 14 tahun")
-alamat = input("Alamat: Bata, Riau")
-email = input("Email: infoonly44@gmai.com")
-pekerjaan = input("Pekerjaan: Junior Programmer")
+Nama = input("Nama: myvintech")
+Umur = input("Umur: 14 tahun")
+Alamat = input("Alamat: Bata, Riau")
+Email = input("Email: infoonly44@gmai.com")
+Pekerjaan = input("Pekerjaan: Junior Programmer")
 
 # Menampilkan biodata
 print("\n=== Biodata ===")

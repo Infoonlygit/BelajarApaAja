@@ -3,7 +3,7 @@ Nama = input("Nama: myvintech")
 Umur = input("Umur: 14 tahun")
 Alamat = input("Alamat: Bata, Riau")
 Email = input("Email: infoonly44@gmai.com")
-Pekerjaan = input("Pekerjaan: Junior Programmer")
+Pekerjaan = input("Pekerjaan: Mahasiswa")
 
 # Menampilkan biodata
 print("\n=== Biodata ===")

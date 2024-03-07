@@ -1,6 +1,6 @@
 # Halo, Saya Kevin Pandu Samudera (KPS)
 
-Selamat datang di repositori saya! Saya adalah seorang Mahasiswa berusia 14 tahun yang gemar pengkodea komputer sejak 2020, dan di sini Anda akan menemukan beberapa proyek yang saya kerjakan.
+Selamat datang di repositori saya! Saya adalah seorang Mahasiswa berusia 14 tahun yang gemar pengkodean komputer sejak 2020, dan di sini Anda akan menemukan beberapa proyek yang saya kerjakan.
 
 ## Tentang Saya
 

@@ -1,4 +1,4 @@
-# Halo, Saya Kevi PandubSamudera (KPS)
+# Halo, Saya Kevin Pandu Samudera (KPS)
 
 Selamat datang di repositori saya! Saya adalah seorang Mahasiswa berusia 14 tahun yang gemar pengkodea komputer sejak 2020, dan di sini Anda akan menemukan beberapa proyek yang saya kerjakan.
 

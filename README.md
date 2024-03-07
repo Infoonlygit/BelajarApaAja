@@ -1,12 +1,12 @@
-# Halo, Nam Saya [KevinPanduSamudera]
+# Halo, Saya Kevi PandubSamudera (KPS)
 
-Selamat datang di repositori saya! Saya adalah seorang [pekerjaan atau minat utama Anda], dan di sini Anda akan menemukan beberapa proyek yang saya kerjakan.
+Selamat datang di repositori saya! Saya adalah seorang Mahasiswa berusia 14 tahun yang gemar pengkodea komputer sejak 2020, dan di sini Anda akan menemukan beberapa proyek yang saya kerjakan.
 
 ## Tentang Saya
 
-- Nama: [Kevin Pandu Samudera]
-- Pekerjaan: [Mahasiswa & Programmer Web]
-- Lokasi: [Batam, Kep - Riau]
+- Nama: Kevin Pandu Samudera
+- Pekerjaan: Mahasiswa & Programmer Web
+- Lokasi: Batam, Kep - Riau
 
 ## Proyek Terkini
 
@@ -15,8 +15,8 @@ Selamat datang di repositori saya! Saya adalah seorang [pekerjaan atau minat uta
 
 ## Kontak
 
-- Email: [infoonly44@gmail.com]
-- WhatsApp: [https://wa.me/6281535298570]
-- Website: [https://www.myvinn.blogspo.com]
+- Email: infoonly44@gmail.com
+- WhatsApp: https://wa.me/6281535298570
+- Website: https://www.myvinn.blogspo.com
 
 Jangan ragu untuk menjelajahi repositori saya dan beri tahu saya jika Anda memiliki pertanyaan atau umpan balik!
